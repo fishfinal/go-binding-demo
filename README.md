@@ -59,7 +59,7 @@ curl "http://127.0.0.1:8002/api/v1/notifications?type=whatsapp"
 
 ## 相关文章
 
-详细分析请参考：[Gin 框架 oneof 验证标签：单引号写法的陷阱与最佳实践](/posts/gin/oneof-single-quote-misunderstanding)
+详细分析请参考：[Gin 框架 oneof 验证标签：单引号写法的陷阱与最佳实践](https://fishfianl/posts/gin/oneof-single-quote-misunderstanding.html)
 
 ## License
 
